@@ -15,7 +15,7 @@ Angular crash course
       1. Install node js from website https://nodejs.org/en/download
       2. Install npm - node pakage manager 
       3. Install angular - angular cli :
-         * cmd: `Npm Install --location=global @angular/cli@14.0.7`
+         Npm Install --location=global @angular/cli@14.0.7
          
  1. ##### Create Project
     `ng new <Project name>`
